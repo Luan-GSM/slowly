@@ -1,4 +1,4 @@
-# Slowly - Trazendo a experiência tradicional de amigos postais para o discord
+# Slowly
 Projetado inicialmente como um backup para cartas trocadas, oferece uma experiência personalizada de correspondência para um servidor específico. Os usuários podem escrever, enviar e manter um registro das suas trocas, proporcionando uma abordagem única à comunicação digital.
 
 
@@ -7,7 +7,7 @@ Projetado inicialmente como um backup para cartas trocadas, oferece uma experiê
  - [dynaconf](https://github.com/dynaconf/dynaconf)
  - [Discord Webhook](https://discord.com/developers/docs/resources/webhook)
 
-## installation
+## instalação
 
 1. clone o repositório:
 
@@ -59,5 +59,6 @@ Projetado inicialmente como um backup para cartas trocadas, oferece uma experiê
 1. dentro do diretório do projeto (slowly):
 
   ```bash
-  python -m slowly
+  cd src
+  python main.py
   ```

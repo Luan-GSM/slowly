@@ -1,0 +1,8 @@
+[default]
+status = "PRODUCTION"
+name = "slowly, conectando o mundo"
+
+cogs = [
+  "cogs.commands",
+  "cogs.events"
+]
